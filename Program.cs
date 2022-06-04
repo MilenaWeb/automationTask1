@@ -113,7 +113,7 @@ namespace AutomationTask1
         public void FinishTest()
         {
             //close browser
-           // driver.Quit();
+            driver.Quit();
         }
 
     }
